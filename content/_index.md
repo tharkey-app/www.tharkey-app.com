@@ -1,5 +1,5 @@
 ---
-description: "Geolocalization - Privacy - Tracking"
+description: "Geolocalization - Privacy - Fun"
 ---
 Welcome to the Tharkey app website.
 
